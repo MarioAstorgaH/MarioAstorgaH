@@ -6,7 +6,7 @@ He enfocado mi carrera en el **Desarrollo Backend**. Me apasiona crear software.
 - **Lenguajes:** C++, Rust, Kotlin, Java, TypeScript.
 - **Frameworks:** Spring Boot, NestJS, Node.js.
 - **Entorno:** Arch Linux (Hyprland), Neovim (LazyVim), Docker.
-- **Bases de Datos:** PostgreSQL, MySQL, Redis.
+- **Bases de Datos:** PostgreSQL, MySQL.
 
 
 
