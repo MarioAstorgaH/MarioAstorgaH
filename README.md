@@ -1,4 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
+
+He enfocado mi carrera en el **Desarrollo Backend**. Me apasiona crear software.
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** C++, Rust, Kotlin, Java, TypeScript.
+- **Frameworks:** Spring Boot, NestJS, Node.js.
+- **Entorno:** Arch Linux (Hyprland), Neovim (LazyVim), Docker.
+- **Bases de Datos:** PostgreSQL, MySQL, Redis.
+
+
+
 
 <!--
 **MarioAstorgaH/MarioAstorgaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
