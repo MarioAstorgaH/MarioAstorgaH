@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Mario Astorga 👋
 
 He enfocado mi carrera en el **Desarrollo Backend**. Me apasiona crear software.
 
