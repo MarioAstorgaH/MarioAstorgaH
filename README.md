@@ -3,7 +3,7 @@
 He enfocado mi carrera en el **Desarrollo Backend**. Me apasiona crear software.
 
 ### 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** C++, Rust, Kotlin, Java, TypeScript.
+- **Lenguajes:** C++, ![Static Badge](https://img.shields.io/badge/rust-0000?logo=rust&logoColor=%23fb5d2b&color=%235c5755), Kotlin, Java, TypeScript.
 - **Frameworks:** Spring Boot, NestJS, Node.js.
 - **Entorno:** Arch Linux (Hyprland), Neovim (LazyVim), Docker.
 - **Bases de Datos:** PostgreSQL, MySQL.
