@@ -12,7 +12,7 @@ He enfocado mi carrera en el **Desarrollo Backend**. Me apasiona crear software.
 - **Entorno:** Arch Linux (Hyprland), Neovim (LazyVim), Docker.
 - **Bases de Datos:** PostgreSQL, MySQL.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MarioAstorgaH&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-hirs.vercel.app?user=MarioAstorgaH&theme=gotham&hide_border=true&border_radius=4.6&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=520)](https://git.io/streak-stats)
 
 
 <!--
