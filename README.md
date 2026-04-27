@@ -8,7 +8,8 @@ He enfocado mi carrera en el **Desarrollo Backend**. Me apasiona crear software.
 ![Static Badge](https://img.shields.io/badge/Java-0000?logo=openjdk&logoColor=%23fb5d2f&labelColor=%23575352&color=%23575352)
 ![Static Badge](https://img.shields.io/badge/Typescript-0000?logo=typescript&logoColor=%233478c6&labelColor=%23575352&color=%23575352)
 
-- **Frameworks:** Spring Boot, NestJS, Node.js.
+- **Frameworks:** ![Static Badge](https://img.shields.io/badge/Spring-000?logo=Spring&color=%235c5958)
+, NestJS, Node.js.
 - **Entorno:** Arch Linux (Hyprland), Neovim (LazyVim), Docker.
 - **Bases de Datos:** PostgreSQL, MySQL.
 
