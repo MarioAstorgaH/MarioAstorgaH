@@ -10,7 +10,7 @@ He enfocado mi carrera en el **Desarrollo Backend**. Me apasiona crear software.
 
 - **Frameworks:** ![Static Badge](https://img.shields.io/badge/Spring-000?logo=Spring&color=%235c5958)
 , NestJS, Node.js.
-- **Entorno:** Arch Linux (Hyprland), Neovim (LazyVim), Docker.
+- **Entorno:** Arch Linux (Hyprland), Neovim (LazyVim), Docker, AWS.
 - **Bases de Datos:** PostgreSQL, MySQL.
 
 [![GitHub Streak](https://github-readme-streak-stats-hirs.vercel.app?user=MarioAstorgaH&theme=gotham&hide_border=true&border_radius=4.6&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=520)](https://git.io/streak-stats)
